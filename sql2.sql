@@ -1,0 +1,1 @@
+select * from abc where t="abc";
